@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

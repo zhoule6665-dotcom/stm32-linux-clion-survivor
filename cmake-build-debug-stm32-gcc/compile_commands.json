@@ -1,0 +1,164 @@
+[
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/source/main.c.obj -c /home/dr/CLionSTM32Demo-master/source/main.c",
+  "file": "/home/dr/CLionSTM32Demo-master/source/main.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/source/main.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/core_cm3.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/core_cm3.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/core_cm3.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/core_cm3.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/misc.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/misc.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/misc.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/misc.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_adc.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_adc.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_adc.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_adc.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_bkp.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_bkp.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_bkp.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_bkp.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_can.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_can.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_can.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_can.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_cec.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_cec.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_cec.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_cec.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_crc.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_crc.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_crc.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_crc.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_dac.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_dac.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_dac.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_dac.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_dbgmcu.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_dbgmcu.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_dbgmcu.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_dbgmcu.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_dma.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_dma.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_dma.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_dma.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_exti.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_exti.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_exti.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_exti.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_flash.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_flash.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_flash.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_flash.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_fsmc.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_fsmc.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_fsmc.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_fsmc.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_gpio.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_gpio.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_gpio.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_gpio.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_i2c.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_i2c.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_i2c.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_i2c.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_iwdg.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_iwdg.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_iwdg.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_iwdg.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_pwr.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_pwr.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_pwr.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_pwr.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_rcc.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_rcc.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_rcc.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_rcc.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_rtc.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_rtc.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_rtc.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_rtc.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_sdio.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_sdio.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_sdio.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_sdio.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_spi.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_spi.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_spi.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_spi.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_tim.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_tim.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_tim.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_tim.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_usart.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_usart.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_usart.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_usart.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_wwdg.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_wwdg.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/stm32f10x_wwdg.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/stm32f10x_wwdg.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/system_stm32f10x.c.obj -c /home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/system_stm32f10x.c",
+  "file": "/home/dr/CLionSTM32Demo-master/STM32F10x_FWLib/src/system_stm32f10x.c",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/STM32F10x_FWLib/src/system_stm32f10x.c.obj"
+},
+{
+  "directory": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc",
+  "command": "/usr/bin/arm-none-eabi-gcc -DHSE_VALUE=8000000 -DSTM32F103xB -DSTM32F10X_MD -DUSE_HAL_DRIVER -DUSE_STDPERIPH_DRIVER -I/home/dr/CLionSTM32Demo-master/./STM32F10x_FWLib/inc -I/home/dr/CLionSTM32Demo-master/./include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/CLionSTM32Demo.elf.dir/startup/startup_stm32f103xb.S.obj -c /home/dr/CLionSTM32Demo-master/startup/startup_stm32f103xb.S",
+  "file": "/home/dr/CLionSTM32Demo-master/startup/startup_stm32f103xb.S",
+  "output": "/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir/startup/startup_stm32f103xb.S.obj"
+}
+]

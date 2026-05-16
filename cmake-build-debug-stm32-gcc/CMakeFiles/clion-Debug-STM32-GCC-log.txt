@@ -1,0 +1,5 @@
+/snap/clion/439/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/439/bin/ninja/linux/x64/ninja -DCMAKE_C_COMPILER=/usr/bin/arm-none-eabi-gcc -DCMAKE_CXX_COMPILER=/usr/bin/arm-none-eabi-g++ -G Ninja -S /home/dr/CLionSTM32Demo-master -B /home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc
+-- Minimal optimization, debug info included
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc

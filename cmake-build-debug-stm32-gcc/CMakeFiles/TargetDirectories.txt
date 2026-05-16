@@ -1,0 +1,3 @@
+/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/CLionSTM32Demo.elf.dir
+/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/edit_cache.dir
+/home/dr/CLionSTM32Demo-master/cmake-build-debug-stm32-gcc/CMakeFiles/rebuild_cache.dir
